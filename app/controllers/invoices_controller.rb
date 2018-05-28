@@ -1,3 +1,4 @@
+
 class InvoicesController < ApplicationController
 
   def index
